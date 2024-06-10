@@ -10,4 +10,4 @@ My solutions for "SD212-Graph Learning" laboratories, a.y. 2023-2024 - Télécom
 - [TP2 - Page Rank](TP2)
 - [TP3 - Graph Clustering](TP3)
 - [TP4 - Hierarchical Clustering](TP4)
-- [TP5 - Diffusion](TP5)
+- [TP5 - Heat Diffusion](TP5)
